@@ -3,7 +3,9 @@ The bot is currently in development and not on full time release. therefore bot 
 
 A.P.T The Automated Personal Trader, is a discord bot that allows members to access data from the UEXCorp.space website and API directly in the discord chat.
 
-<img src="https://uexcorp.space/img/api/uex-api-badge-powered.png" alt="UEXCorp API Badge" width="200">
+<a href="https://uexcorp.space/">
+    <img src="https://uexcorp.space/img/api/uex-api-badge-powered.png" alt="UEXCorp API Badge" width="200">
+</a>
 
 **Current Features and commands include;**
 /commodity <commodity name> 
