@@ -1,3 +1,6 @@
+Install Link - https://discord.com/oauth2/authorize?client_id=1335104515766095902
+The bot is currently in development and not on full time release. therefore bot up time is not guarenteed 
+
 A.P.T The Automated Personal Trader, is a discord bot that allows members to access data from the UEXCorp.space website and API directly in the discord chat.
 
 **Current Features and commands include;**
