@@ -3,6 +3,8 @@ The bot is currently in development and not on full time release. therefore bot 
 
 A.P.T The Automated Personal Trader, is a discord bot that allows members to access data from the UEXCorp.space website and API directly in the discord chat.
 
+![Alt Text]([image_url](https://uexcorp.space/img/api/uex-api-badge-powered.png))
+
 **Current Features and commands include;**
 /commodity <commodity name> 
     Specify the commodity you want details on and the bot will show you the current average buy and sell price of the commodity and its weight/SCU.
